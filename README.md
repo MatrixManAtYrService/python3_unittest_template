@@ -17,7 +17,7 @@ The project is called `proj`
 
 ##### Invoke the test run script:
 
-    $ ./test_all.py
+    $ ./test_all.sh
         F.
         ======================================================================
         FAIL: test_baz (test_foo.Bar)
